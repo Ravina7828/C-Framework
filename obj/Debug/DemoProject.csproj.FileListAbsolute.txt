@@ -212,3 +212,4 @@
 /Users/apple/Projects/demo/demo/obj/Debug/DemoProject.csproj.CopyComplete
 /Users/apple/Projects/demo/demo/obj/Debug/demo.dll
 /Users/apple/Projects/demo/demo/obj/Debug/demo.pdb
+/Users/apple/Projects/demo/demo/obj/Debug/DemoProject.csproj.AssemblyReference.cache
